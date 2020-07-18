@@ -1,0 +1,49 @@
+Blockchain is a distributed ledger
+Blockchain is a term used in information technology. Essentially, it is a Shared database of data or information that is "not falsifiable", "traces", "open and transparent" and "collectively maintained".
+a blockchain is a scenario and potential future environment in which cryptocurrency replaces current monetary systems.
+is a Bitcoin block explorer service, as well as a cryptocurrency wallet supporting Bitcoin, Bitcoin Cash, and Ethereum
+Blockchain is a distributed ledger. Blockchain is a chain of blocks which contain information, such as data, hash of the block and hash of previous work.
+Blockchain is a term used in the field of information technology. It is essentially a Shared database of data or information stored in it, which can be traced back to open and transparent collective maintenance
+Blockchain is a term used in the field of information technology. It is essentially a Shared database of data or information stored in it, which can be traced back to open and transparent collective maintenance
+Blockchain is a distributed ledger that makes smart contracts possible.
+Yes, please explain
+a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network.
+It is a decentralized database and have the features of decentralized, transparent, immutable.
+Blockchain is a concatenated text record that uses cryptography to concatenate, save and protect content of information.
+Blockchain is a distributed shared ledger and database, which has the characteristics of decentralization, collective maintenance, openness and transparency.
+System of recording information that makes it difficult to hack or cheat the system
+It is a spreadsheet or diary containing information of transactions
+a technology enabling transaction to be safe. Transactions happend on blockchain cannot be distorted and are transparent based on a decentralised system
+A type of diary or spreadsheet containing information about transactions.
+system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system
+Blockchain is a ever growing list of records, which are called blocks. For these blocks cryptography is set into use. Each new block contains a cryptographic hash of the previous block. You can also find a timestamp and transaction data.
+blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words ¡°block¡± and ¡°chain¡± in this context, we are actually talking about digital information (the ¡°block¡±) stored in a public database (the ¡°chain¡±).
+a digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+Blockchain is a distrubuted ledger.
+a decentralized database
+Blockchain is a distributed database existing on multiple computers at the same time. It is constantly growing as new sets of recordings, or ¡®blocks¡¯, are added to it. Each block contains a timestamp and a link to the previous block, so they actually form a chain. The database is not managed by any particular body; instead, everyone in the network gets a copy of the whole database. Old blocks are preserved forever and new blocks are added to the ledger irreversibly, making it impossible to manipulate by faking documents, transactions and other information.
+It is a database. It recors all the transactions that are done and keeps the information about the transactions. The information is added to the "block" and because part od the database. It grows constantly as nrew transactions grow
+A new way to store information.Adopt distributed accounting.
+Blockchain is a distributed ledger. Blockchain is a chain of blocks which contain information, such as data, hash of the block and hash of previous work
+Blockchain is a distributed ledger.
+blockchain is a distributed ledger
+an open and reliable shared database
+a shared database
+block chain is a distributed ledger
+It is a system that involves transactions made in bitcoin or another cryptocurrency that are maintained across several computers that are linked in a peer-to-peer network.
+a distributed ledger that contains datas and records information about transactions (sender, receiver, amount of money)
+System of recorded transaction made in crypto currency that are maintained across in a network
+Digital pieces of information specifically about the transaction information (date,time and amount) of cryptocurrencies such as bitcoins.
+it is a technology which allows different parties to complete transactions safe and secure and there is pernement record of it. and each transaction makes a hash and then it is transferred into a block which joins to other blocks
+A decentralized database
+Blockchain is a distributed shared database, and it is decentralized, traceable, open and transparent.
+Blockchains are type of distributed ledger written by decentralized and usually anonymous groups of agents rather than known cetralized parties.
+each user can use code to find out info in the database and everyone have the right to write the data. It's a decentralized database.
+A blockchain is a new digital ledger technology (DLT), it is a database that is shared across a network of computers. It is decentralised as it distributed trust against all users. It is consensus, immune to cyber attack and traceable.
+Blockchain, Bitcoin's computer program, is able to automatically process transactions and create a perfect, reliable digital record.
+s, Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.
+BlockChain is an information chain composed of a set of information modules containing information and it is more than a ledger.
+it is a data structure that holds transactional records while ensuring security, transparency, and decentralization.
+blockchain is a distributed ledger
+a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network.

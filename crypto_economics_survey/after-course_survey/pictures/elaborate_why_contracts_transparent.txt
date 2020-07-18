@@ -1,0 +1,44 @@
+Because it is executed based on computer codes and anyone is hard to change it by himself
+The contract is written into the block chain in digital form. Due to the characteristics of the block chain, data cannot be deleted or modified, but can only be added. The whole process is transparent and traceable, ensuring the traceability of history.
+Transactions on a blockchain are constantly being recorded and stored on the blockchain across nodes. All participants can view all transactions on the network in real-time.
+It displays the information to the public to realize decentralization and helps lower the uncertainty if the trade
+because it realize decentralized projects. All parties involved in a smart contract can be confident that the contract is being executed in a 100% neutral and unbiased manner
+The smart contract is publicly verifiable and automatically executed in the internet so that everyone can see and check.
+Yes, please explain
+A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.
+They have fixed code that all users can can see once released. It uses a node network to verify that all aspects of the protocol have been completed.
+They can state what the both sides should do, provide a way to evaluate, within our scope, makes sense within your job function and state when you should get it down. So they are transparent.
+It¡¯s democratic and cuts off the middle man and endorses trust
+Because every node receives information related to one specific transaction. It's impossible to conceal transaction details because doing that means altering every node
+to build trust between parties
+It needs to be transparent in order ti be secured and safe
+Smart contracts are transparent because there is no middle man, which allows peer to peer transactions. Furthermore smart contracts are accessible all the time and can be seen by the participants at any given time which builds up trust and transparency.
+smart contract is an agreement, in the form of a computer program that is executed automatically once certain pre-programmed conditions are satisfied. On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.
+n a decentralized setting trust is earned, not assumed. So then as a developer, customer or business attempting to interact with smart contracts
+A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.
+Because they are more like program and they are hard to revise which are safer and stable. If one side doesn't obey the contracts, the other side will find it immediately.
+the code is available
+Because transparency creates an environment of trust as the logic and information in the contract is visible to all participants in the blockchain network
+Since it is made by a computer and based on the blockchain no human is involved in the process of making it. In consequences interest of one or the other party will not be affected. Human errors or attemots to damage the other party are not an option.
+Because it can stor all transactions in all terminals.
+Transactions on a blockchain are constantly being recorded and stored on the blockchain across nodes. All participants can view all transactions on the network in real-time.
+Smart contracts are exectued automatically with computer codes. There is no 3rd parties interference, and it's publicly verifiable and traceable. So it's transparent
+The buyer and the seller can interact and negotiate according to the agreement related to value, and can audit.
+Contracts embed a variety of valuable and digitally controlled properties and is traceable
+Because its on the blockchain, everyone else can see it equally.
+they are transparent as everyday a random person is chosen to become a book keeper that stores every transaction in a day and after checking authenticity it is than copied to others which makes everyone be able to see every transaction making it very transparent.
+because there is no middleman or intermediaries, so it allows direct relationships with customers
+They improve transparency by relying on blockchain instead of mediators and keeping the system conflict frre
+it needs to be transparent because it's for everybody to see that it's not being used for criminal activities like money laundering.
+Smart contracts are transparent because this why the middle man is eliminated and so both sides can see what is happening in the transaction and not have to worry about being tricked.
+Blockchain is the database of Internet applications, but this database can be viewed by everyone. It is open, but cannot be modified
+Because it has to guarantee every user that all transactions are equal and safe.
+Because it can create trust in the environment as the logic and information in the contract is visible to all the participants in the blockchain network.
+transactions are constantly being recorded and stored on the blockchain across nodes. all participants can view all transactions on the network in real-time.
+It is transparent because it comes along with the idea of blockchain. It is open source and so, it helps to solve the issue of mistrust between parties and business partners. The goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman.
+Compared with the traditional contract, the smart contract has obvious advantages. Its execution does not need or can't be interfered by anyone. It is completely determined by whether the conditions of the contract have been met. The emergence of blockchain technology effectively serves smart contracts, which have the advantages of decentralization, non-tampering, transparent and traceable process, etc., and are naturally suitable for smart contracts.
+A smart contract defines the terms of a transaction via computer code, and also verifies, executes, and enforces the transaction without the need of a trusted intermediary.
+Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism.
+Smart contract's purpose is to simplify trades between both anonymous and identified parties without depending much on middleman. Where transparency is needed in order to create an environment of trust as the logic and information in the contract is visible to all participants in the blockchain network.
+becuase everyone on the blockchain can view the smart contracts and transactions
+Smart contracts also bypass the so-called principal-agent dilemma of organizations, providing more transparency and accountability

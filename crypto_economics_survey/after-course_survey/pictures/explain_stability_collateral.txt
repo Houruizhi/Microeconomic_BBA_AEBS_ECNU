@@ -1,0 +1,24 @@
+Because the collateral itself will be influenced by the change of market, so maybe it is worthy at first but will become worthless later
+The system is vulnerable to hacks of the crypto assets blocked in the smart contracts if the codes are not well written. In such case ,the recourse of collateral is almost impossible.
+The stability mechanism relies on the underlying crypto  collateral. The stable coin could become under-collateralized if the value of the underlying crypto assets drops too fast. The system is vulnerable to hacks of the crypto assets locked in the smart contracts if the codes are not well written. In such cases, the resources of collateral is almost impossible.
+Because the value of crypto collateral is volatile
+If the value of the esthetic coins is not enough to support the corresponding amount of Dai, the the value of the DAi will be less than dollar, and the system may collapse by clearing CDP and auctioning the esthetic coins.
+Once the the stability of the collateral decreases, value of the coins may become turbulent, bringing huge financial risks to blockchain
+because they have to make a projection and consider what variables can affect the stability of the collateral
+Yes, please explain
+Normally, the bank will ask you to provide your home as collateral. This means that if you fail to meet the repayment terms of your mortgage, the bank has the right to take ownership of your home. The bank can then sell your home in order to recoup the money that it lent to you. Collateral acts as a guarantee that the lender will receive back the amount lent even if the borrower does not repay the loan as agreed.
+Yes, please explain
+Maker wants to aribitrage through the unstability of the collateral. If they are stable, they cannot make money.
+Collateral is an item of value that you own and pledge to back a loan that you take. If you should default on the loan, the lender can then take ownership of the collateral in order to offset its losses. Which could be a challenge for the maker. Collateral covers a multitude of sins. If you have a low credit score, you might normally be declined a loan, but with collateral your lender might be more likely to take that risk because the lender can take ownership of the asset pledged and thus reduce the risk it takes on by loaning to you.
+Because they need to give their asset as a guarantee. In case, they can't pay the debt the asset will be given to the lender.
+The stability mechanism relies on the underlying crypto  collateral. The stable coin could become under-collateralized if the value of the underlying crypto assets drops too fast. The system is vulnerable to hacks of the crypto assets locked in the smart contracts if the codes are not well written. In such cases, the resources of collateral is almost impossible.
+clearing mechanism
+Because unstable collateral's value may change, which affects the Maker's resources on hand
+it is harder for makers for the stability of the collateral as they are forced to predict future projections and also there are a lot of variable that effects the stability of collateral.
+Yes, please explain
+the stability mechanism relies on the underlying crypto collateral. the stable coin could become under-collateralized if the value of the underlying cryto assets drops too fast.
+With having a big market share in cryptocurrency, Maker¡¯s collateralization ratio is 150% which is common. However, huge investment pool means higher risk of being collapsed when the liquidation mechanism doesn¡¯t work well as expected. In this case, collaterals that fall below that rate are subject to a 13% penalty and liquidation (by anyone) to bring the collateral out of default. More testing is needed for maker to ensure its mechanism is capable of maintaining the stable coin value.
+The collateral is not foolproof. First, the valuation of the collateral does not equal the present value. Second, collateral can also be sealed up by other courts. Third, the housing market is likely to fall. Finally, the mortgagor may Sue maliciously.
+because mortgage is risky and the liquidity is not promising.
+because the system relies on the value of the collateral and stable coin could become under-collateralized if the value of the underlying crypto assets drops too fast
+Firms will face an unprecedented collateral challenge.

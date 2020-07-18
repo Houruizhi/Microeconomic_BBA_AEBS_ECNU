@@ -1,0 +1,48 @@
+Because many people can have access to the data and the number can't be changed if only one block is changed
+Blockchain technology does not rely on additional third-party management institutions or hardware facilities, and has no central control. In addition to the self-contained blockchain itself, each node realizes information self-verification, transmission and management through distributed accounting and storage. Decentralization is the most prominent and essential feature of blockchain
+Yes, please explain
+it is a decentralized ledger that can store information securely and immutably,
+Because blockchains are managed by a network of nodes rather than a central authority. This prevents any one entity from having any control over the network.
+The blockchain emphasizes decentralization because it is a specially distributed database. Compared with traditional data storage, blockchain does not require centralized management, and each node can participate in management and maintenance, thus reducing costs and improving security
+The blockchain emphasizes decentralization because it is a specially distributed database. Compared with traditional data storage, blockchain does not require unified management, and each node can participate in management and maintenance, thus reducing costs and improving security.
+The account book is copied by all peers and the bookkeeper is randomly selected from everyone.
+Yes, please explain
+By storing data across its peer-to-peer network, the blockchain eliminates a number of risks that come with data being held centrally. The decentralized blockchain may use ad hoc message passing and distributed networking.
+It is allowed to deal point to point, it has the code for each part and only have the connection with the two side of parts. Each database contain information. So that everyone is able to edit and check with that.
+Each node of blockchain achieves information self-verification, transmission and management through distributed accounting and storage.
+Decentralization provides space for the transformation from a traditional centralized model to a flat platform independent of central control.
+Because it allows someone to become one network¡¯s many payment processor
+Because the distribution is just a layout, the focus is on task allocation and result summary, and decentralization is a state, which makes every node realize equal and free data exchange, which is also the purpose of decentralization. Just because of the equality brought about by "decentralization", the blockchain is endowed with transparent and open characteristics. In addition, any increase, decrease and modification must be informed to other nodes.
+it gives a user an opportunity to become to become one of the network's many payment processors.
+makes transactions more secure
+Blockchain is decentralized which means, there is no middleman in the transactions. By storing all of the data, blockchain allows person to person trading. There is no third party involved that has the central power.
+the Blockchain, is what allows for this decentralization, as it offers every single user an opportunity to become one of the network's many payment processors.
+Decentralization is the process of distributing and dispersing power away from a central authority. ... Its underlying technology, the Blockchain, is what allows for this decentralization, as it offers every single user an opportunity to become one of the network's many payment processors.
+By storing data across its peer-to-peer network, the blockchain eliminates a number of risks that come with data being held centrally. The decentralized blockchain may use ad hoc message passing and distributed networking.
+Because decentralized blokchain is safe, effecient and economical.
+because it is speacially disputed
+Blockchain¡¯s proponents expect it to be virtually immutable without being centralized, meaning that blockchain would not require a trusted third party that decides upon the ledger¡¯s content.  This decentralized structure allows them to exist outside the control of governments and central authorities.
+Because it is not controloed or regulated by any institution or firm.
+It can store all transactions at multiple terminals.
+Because blockchains are managed by a network of nodes rather than a central authority. This prevents any one entity from having any control over the network.
+Because blockchains are managed by a network of nodes rather than a central authority.
+Because blockchains are managed by a network of nodes rather than a central authority, they are fully decentralized. This prevents any one entity from having any control over the network.
+Because the distribution is just a layout, the focus is on task allocation and result summary, and decentralization is a state, which makes every node realize equal and free data exchange, which is also the purpose of decentralization.  Just because of the equality brought about by "decentralization", the blockchain is endowed with transparent and open characteristics. In addition, any increase, decrease and modification must be informed to other nodes, just like "participation of the whole people".
+Because in blockchain, each node realizes equal and free data exchange
+they are decentralized as they use SMART contract to bind traders instead of using middleman. it is decentralized as it randomly select a person as bookkeeper everyday and the bookkeeper collect and copy all transactions and after checking authenticity it is copied to everyone making it no need of using any middle man what so ever also it makes it very transparent.
+The blockchain eliminates a number of risks that come with data being held centrally. The decentralized blockchain may use distributed networking.
+because it is build on top of ethereum which is a programmable blockchain and has the most vibrant community of developers out of many blockchain in the world. it also offers the users opportunity to become one of the network's many payment processors
+So that any involved block cannot be altered retroactively without the alteration of all subsequent blocks
+it is decentralised so that one country or institution can't abuse its power for maybe owning it causing political biases towards potential user.
+It is decentralised for a very simple reason and that reason is that by be decentralised it doesnt have one single authority entity in charge of it and therefore it is not influence and remains neutral at all times
+Block chain has an open, flat, equal system phenomenon or structure, we call it decentralized.
+To secure the data in an environment without mutual trust and to improve the transaction system.
+Because it offers every single user an opportunity to become one of the network's many payment processors.
+Because blockchain has no central server or control center. Instead, it controls itself by letting the network make its own decisions.
+To further finance is operated by an organization which is formed by a group people. In this case, huge cost structure such as employee salary, server maintenance fees, rental fees and profit margin will be charged in every function which is provided by those banks. Therefore, a considerable amount of fees will be charged in each and every transaction.plain that, we have to know the reasons why the founder created it. Blockchain is meant to solve the double-spending problem without the need of a trusted authority or central server as it is transparent and traceable. It removes the power of a centralized third party which would have all the transactions history and could infringe our users¡¯ right.
+Because a distributed network is more reliable than a centralized one, and because there is no central server, it prevents hackers from attacking the central server. Decentralized is more democratic than centralized, with no central authority and user control.
+Because it does not involve third parties to secure identity or store information.
+because in blockchain, everyone will be the bookkeeper and there is no center in the system.
+it is to prevent any risk and tolerate localized shutdowns or attacks. There are no one's permission is required to join the peer-to-peer network, as long as ones operates according to the protocol, which indicating that it is a censorship-resistant.
+because blockchain is managed by a network of nodes instead of a central authority
+eliminates a number of risks that come with data being held centrally.
