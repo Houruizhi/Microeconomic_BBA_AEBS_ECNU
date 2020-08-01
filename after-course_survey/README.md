@@ -1,8 +1,8 @@
-# Visualization results of pre-course survey
+# Visualization results of after-course survey
 
-This document lists the visualization results of the pre-course survey. The pictures are in [pictures](./pictures) dir.
+This document lists the visualization results of the after-course survey. The pictures are in [pictures](./pictures) dir.
 
-![academic_research](./pictures/academic_research.png)
+![](./pictures/academic_research.png)
 
 ![after_education](./pictures/after_education.png)
 
