@@ -1,8 +1,9 @@
-# Microeconomic_BBA_AEBS_ECNU
+# AI for Microeconomics (AEBS0031131801.01.2019-20202), Spring 2020
 
 This course is talked by [Dr. Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/) at [Asia Europe Business School](http://aebs.ecnu.edu.cn/english/main.htm) during Spring 2020 and I ([Ruizhi Hou](https://www.linkedin.com/in/ruizhi-hou-50a0861a0/)) is the Gradudate Teaching Assistant. I have assisted Dr. Luyao Zhang in designing and implementing the course surveys. 
 
 The purpose of these pre-course questionaires is to understand the capabilities of students, such as team work, basic knowledge and leadership, and to provide the best course experience for students; The after-course questionaires evaluate student achievements when compared with pre-course survey results. 
+![We are in this, all Together](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS7.jpg)
 
 ### **Course Information**: AEBS0031131801.01.2019-20202
 AI for Microeconomics |Spring 2020
@@ -43,6 +44,7 @@ We have two mini-courses jointly designed by the guest lecturer and our instruct
 In this course, we will study the basics of Crypto Economics. Topics including Cryptocurrency, Blockchain, Smart Contract, and Decentralized Finance will be elaborated via case studies. The students will enjoy an experiential education to understand the original drive, applications, and pros & cons of each crypto-economic project/product/technology. Moreover, the student will identify the limitations of the existing decentralized finance project and develop strategies to improve upon it in our research-directed and project-based cloud classroom.
 
 ### **Guest Lecturer**: 
+![Crypto-economics, Dr. Yulin Liu](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS8.png)
 
 [Dr. Yulin Liu](https://www.linkedin.com/in/yulineth/) leads research on crypto-economics and on-chain governance systems as Senior Economist at DFINITY Foundation, aligned with his research interest in macroeconomics, monetary economics, financial stability, blockchain, and crypto-economics.
 
@@ -77,6 +79,10 @@ Watch the student presentation video on [YouTube](https://www.youtube.com/playli
 [Decentralized Identity: CIVIC](https://www.slideshare.net/LuyaoZhangPhD/decentralized-identitycivic-presented-by-always-on)
 
 [Stable Coin: Liquity](https://www.slideshare.net/LuyaoZhangPhD/stable-coinliquidity-presented-by-404-not-found)
+![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.png)
+![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.png)
+![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS5.png)
+![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS6.png)
 
 ##### Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
 
