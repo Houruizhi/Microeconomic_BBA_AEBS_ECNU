@@ -55,6 +55,11 @@ Currently, he also serves as an affiliated economics professor at Huazhong Unive
 
 He received B.S. in Physics awarded jointly by Université Claude Bernard Lyon 1 and Wuhan University in 2010, M.S. in Quantum Computation from ETH Zurich in 2012, and Ph.D. in Economics from ETH Zurich in 2016. :+1:
 
+![event poster](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/guest_lecture_documents/AEBS_YulinLiu_2020_06_11.jpg)
+
+- [slides](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/guest_lecture_documents/Crypto%20Economics%20Event_YulinLiu_2020_06_11.pdf)
+- [invitation letter](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/guest_lecture_documents/AEBS_BusinessPractise_InivitationLetter_Yulin%20Liu.pdf)
+
 ### **Final Deliverables**:
 ##### Crypto Economics AEBS June 2020 Lecture
 Watch the lecture on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GHB3Vmi5Og9mL1S6GqR2HtE) or [Bilibili](https://www.bilibili.com/video/av541022495).
