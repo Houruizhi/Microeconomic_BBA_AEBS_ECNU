@@ -1,0 +1,3 @@
+Take flash loan as an example, it's good because people can borrow money more efficiently and protect the interest of lenders, however it's easily to be attacked and may lead to arbitrage which may have negative influence on defi
+The bZx smart contract: pros: 1. Low cost.2. Transparent 3.atomic and if the borrower fail to pay back money ,the whole things gets reverted as though the loan never happened. Cons:1 The potential for a leverage attack.2 minimize the stigma of an attacker 3.Can be accumulated.
+About Bancor, its advandages are continuous inquidity, no built-in fees, adjustable price sensitivity and no spread. Its problems are about security, responsibility, inflexibility, unfairness and instability.

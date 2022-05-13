@@ -1,0 +1,12 @@
+Smart contract empowers decentralized finance
+Smart Contract is a computer contract designed to spread, verify or execute contracts in an information-based manner. Smart contracts allow for trusted transactions that are traceable and irreversible without a third party.
+a smart contract is basically a way of agreement between two parties that involved computer code to justify what is being received and what is being given. While traditional contracts are law abiding legal, paper, agreements between two parties.
+Smart contracts are, in essence, computer programs that automate the enforcement of terms. Traditional Contracts, on the other hand, are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language.
+Smart contract empowers decentralized finance. Smart contracts are simpler programs that are stored on blockchain and can be used to autometically exchange coins based on certain conditions.
+Traditional contracts are based on contract law, which is based on subjective perceptions and analogies. Smart contracts are based on software, which is based on bits. In the aspect of safety, traditional contract is more restricted while smart contracts are more flexible and it can help build wider connections
+The traditional contract is based on the contract law, the law is mainly based on subjective views and analogy. The smart contract is based on software, which is mainly based on bits. Smart contracts are also less restricted by time\ location\ environment and other conditions, it can help build up more connections than traditional ones
+Smart contract is written with computer codes and automatically executed, and there is no need for a central authority compared with traditional contract.
+Yes, please explain
+Smart contracts are, in essence, computer programs that automate the enforcement of terms. Traditional Contracts, on the other hand, are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language.
+It can work automatically because it has already set by the programmers. There is no need for central authorities or legal system to monitor. And it is also graceful and transparent.
+Smart contracts are computer programs built on a blockchain mostly on the infrastructure. Smart contracts have the specific, measurable, attainable, relevant and time-bound characteristics while the traditional one doesn¡¯t have them.

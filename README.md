@@ -1,12 +1,14 @@
 # AI for Microeconomics (AEBS0031131801.01.2019-20202), Spring 2020
 ## Introduction
 
+
 ![beginning](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.jpg)
 
 This course is talked by [Dr. Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/) at [Asia Europe Business School](http://aebs.ecnu.edu.cn/english/main.htm) during Spring 2020 and I ([Ruizhi Hou](https://www.linkedin.com/in/ruizhi-hou-50a0861a0/)) is the Gradudate Teaching Assistant. I have assisted Dr. Luyao Zhang in designing and implementing the course surveys. 
 
 The purpose of these pre-course questionaires is to understand the capabilities of students, such as team work, basic knowledge and leadership, and to provide the best course experience for students; The after-course questionaires evaluate student achievements when compared with pre-course survey results. 
 ![We are in this, all Together](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS7.jpg)
+
 
 ### **Course Information**: AEBS0031131801.01.2019-20202
 AI for Microeconomics |Spring 2020
@@ -39,7 +41,7 @@ Tel: 19921895156
 LinkedIn: https://www.linkedin.com/in/ruizhi-hou-50a0861a0
 
 
-We have two mini-courses jointly designed by the guest lecturer and our instructor. Each of them is a co-author with Dr. Luyao Zhang in academia and industry. Each guest lecturer contributes their area of expertise and Dr. Luyao Zhang worked with them to produce the project-based and research-directed mini-courses. We have pre- and after-course questionaire for each mini-course respectively. I worked on implementing the questionaires, collecting data, and analyze the result. I acknowledge Dr. Luyao Zhang in guiding me in all the endeavors. 
+We have two mini-courses jointly designed by the guest lecturer and our instructor. Each of them is a co-author with Dr. Luyao Zhang in academia and industry. Each guest lecturer contributes their area of expertise and Dr. Luyao Zhang worked with them to produce the project-based and research-directed mini-courses. We have pre- and after-course questionnaires for each mini-course respectively. I worked on implementing the questionnaire, collecting data, and analyze the result. I acknowledge Dr. Luyao Zhang in guiding me in all the endeavors. 
 
 ## **Guest Lecture 1: Crypto-economics**
 
