@@ -126,6 +126,6 @@ Bin Dong is a Ph.D. candidate at Maastricht University. His research field focus
 Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GFH-aREY2Ub1OxNt_DBnLZY) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
 
 
-![ending](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.jpg)
+![ending](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS2.jpg)
 
 
