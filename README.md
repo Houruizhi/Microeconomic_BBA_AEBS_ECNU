@@ -83,7 +83,7 @@ Watch the student presentation video on [YouTube](https://www.youtube.com/playli
 
 [Stable Coin: Liquity](https://www.slideshare.net/LuyaoZhangPhD/stable-coinliquidity-presented-by-404-not-found)
 
-![sample project 1](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.png)
+![sample project 1](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.jpg)
 
 ![sample project 2](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.png)
 
