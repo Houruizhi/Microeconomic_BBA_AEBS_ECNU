@@ -1,5 +1,5 @@
 # AI for Microeconomics (AEBS0031131801.01.2019-20202), Spring 2020
-### introduction
+## Introduction
 
 ![beginning](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.jpg)
 
@@ -27,7 +27,7 @@ LinkedIn:https://www.linkedin.com/in/sunshineluyao/
 
 Website: www.luyaozhang.co
 
-### **Teaching Assistant**:  
+## **Teaching Assistant**:  
 [Ruizhi Hou](https://www.linkedin.com/in/ruizhi-hou-50a0861a0/) is a graduate student in the School of Mathematical Sciences at East China Normal University (ECNU). His leading research interests are basic image processing utilizing machine learning, including image super-resolution, image denoising, and magnetic resonance imaging (MRI), etc. He is also interested in Natural Language Processing (NLP), Knowledge Graph and Quantitative Trading. He will concentrate on co-creating by synthesizing the industrial and the academic AI methodologies.
 
 Department of Mathematics | East China Normal University
@@ -82,9 +82,13 @@ Watch the student presentation video on [YouTube](https://www.youtube.com/playli
 [Decentralized Identity: CIVIC](https://www.slideshare.net/LuyaoZhangPhD/decentralized-identitycivic-presented-by-always-on)
 
 [Stable Coin: Liquity](https://www.slideshare.net/LuyaoZhangPhD/stable-coinliquidity-presented-by-404-not-found)
+
 ![sample project 1](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.png)
+
 ![sample project 2](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.png)
+
 ![sample project 3](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS5.png)
+
 ![sample project 4](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS6.png)
 
 ##### Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
@@ -120,6 +124,7 @@ Bin Dong is a Ph.D. candidate at Maastricht University. His research field focus
 
 ### **Final Deliverables**
 Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GFH-aREY2Ub1OxNt_DBnLZY) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
+
 
 ![ending](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.png)
 
