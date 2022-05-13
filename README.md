@@ -1,4 +1,6 @@
 # AI for Microeconomics (AEBS0031131801.01.2019-20202), Spring 2020
+![introduction]
+![beginning](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.png))
 
 This course is talked by [Dr. Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/) at [Asia Europe Business School](http://aebs.ecnu.edu.cn/english/main.htm) during Spring 2020 and I ([Ruizhi Hou](https://www.linkedin.com/in/ruizhi-hou-50a0861a0/)) is the Gradudate Teaching Assistant. I have assisted Dr. Luyao Zhang in designing and implementing the course surveys. 
 
@@ -79,10 +81,10 @@ Watch the student presentation video on [YouTube](https://www.youtube.com/playli
 [Decentralized Identity: CIVIC](https://www.slideshare.net/LuyaoZhangPhD/decentralized-identitycivic-presented-by-always-on)
 
 [Stable Coin: Liquity](https://www.slideshare.net/LuyaoZhangPhD/stable-coinliquidity-presented-by-404-not-found)
-![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.png)
-![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.png)
-![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS5.png)
-![](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS6.png)
+![sample project 1](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.png)
+![sample project 2](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.png)
+![sample project 3](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS5.png)
+![sample project 4](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS6.png)
 
 ##### Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
 
@@ -117,5 +119,7 @@ Bin Dong is a Ph.D. candidate at Maastricht University. His research field focus
 
 ### **Final Deliverables**
 Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GFH-aREY2Ub1OxNt_DBnLZY) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
+
+![ending](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.png)
 
 
