@@ -85,11 +85,11 @@ Watch the student presentation video on [YouTube](https://www.youtube.com/playli
 
 ![sample project 1](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS3.jpg)
 
-![sample project 2](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.png)
+![sample project 2](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS4.jpg)
 
-![sample project 3](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS5.png)
+![sample project 3](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS5.jpg)
 
-![sample project 4](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS6.png)
+![sample project 4](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS6.jpg)
 
 ##### Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
 
@@ -126,6 +126,6 @@ Bin Dong is a Ph.D. candidate at Maastricht University. His research field focus
 Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GFH-aREY2Ub1OxNt_DBnLZY) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
 
 
-![ending](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.png)
+![ending](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.jpg)
 
 
