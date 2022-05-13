@@ -1,5 +1,5 @@
 # AI for Microeconomics (AEBS0031131801.01.2019-20202), Spring 2020
-![introduction]
+### introduction
 
 ![beginning](https://github.com/sunshineluyao/Microeconomic_BBA_AEBS_ECNU/blob/master/figures/AEBS1.jpg)
 
